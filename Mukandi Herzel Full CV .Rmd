@@ -1,0 +1,151 @@
+
+---
+title: "Curriculum Vitae - Herzel Shingirirai Mukandi"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    number_sections: false
+    keep_tex: true
+fontsize: 10pt
+#mainfont: "TeX Gyre Heros"
+geometry: top=0.3in, bottom=0.3in, left=0.4in, right=0.4in
+linestretch: 1.0
+header-includes:
+  - \usepackage{enumitem}
+  - \setlist[itemize]{itemsep=0.2em, topsep=0.2em, parsep=0em, partopsep=0em, leftmargin=1.5em}
+  - \usepackage{titlesec}
+  - \titlespacing\section{0pt}{0.5em}{0.1em}
+  - \titleformat{\section}{\normalfont\normalsize\bfseries}{\thesection}{0em}{}
+  - \titlespacing\subsection{0pt}{0.3em}{0.1em}
+  - \titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0em}{}
+  - \usepackage{xcolor}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=true, urlcolor=blue}
+---
+
+
+\vspace{-2em}
+
+\begin{center}
+{\small
+Email: \textcolor{blue}{\href{mailto:mukandiherzel@gmail.com}{mukandiherzel@gmail.com}} \quad
+LinkedIn: \textcolor{blue}{\href{https://www.linkedin.com/in/herzelmukandi}{linkedin.com/in/herzelmukandi}} \quad
+GitHub: \textcolor{blue}{\href{https://github.com/HerzelS}{github.com/HerzelS}}
+}
+\end{center}
+
+\vspace{0.5em}
+
+# ABOUT ME
+
+**Monitoring and Evaluation** specialist with over **10 years of experience** in designing, managing, and implementing evaluations for national, regional and international development projects, particularly in rural development, gender, and humanitarian contexts. Adept at utilizing qualitative and quantitative research methodologies, including impact evaluation, economic analysis, and risk management.
+
+# SKILLS
+
+**Data Collection**: Kobo Collect, ODK, Microsoft Forms, Google Forms, Survey Monkey  
+**Data Management, Analysis and Visualisation**: R, Python, SPSS, Nvivo, Microsoft PowerBI, SQL  
+**Communication and Knowledge Management**: Microsoft Teams, Zoom, SharePoint, Miro, MS Project
+
+# WORK EXPERIENCE
+
+## Associate Evaluation Officer - UNHCR  *03/01/2024 – Current* | *Geneva, Switzerland*
+
+- Supported 5 large-scale global thematic, regional and country-level evaluations across 30+ countries (Africa, Europe, Asia, the Middle East and the Americas), ensuring alignment with evaluation policies, methodologies, and frameworks.
+- Provided quality assurance by reviewing evaluation deliverables enhancing evaluation quality and credibility.
+- Guided the Regional Bureau for Southern Africa and 16 country offices in their strategic annual and multi-year planning developing quality Results Frameworks and Theories to Change.
+- Improved evaluation synthesis efficiency through piloting AI-based tools for automated reports using Ollama and Python and implementing innovative scalable and reproducible Fusen packages in R.
+- Collected and analysed data, prepared desk review notes, analysis papers, and Evaluation Office annual report sections, and disseminated key evaluation findings, best practices, and lessons learned.
+- Applied risk management principles as the Risk Management focal Point for the Evaluation office, identified, analyzed, and recommended mitigation measures, improving risk mitigation strategies by 40%.
+- Contributed to internal knowledge-sharing initiatives by developing a dynamic Power BI dashboard that monitors
+performance for 150+ evaluative projects in MS Project.
+- Participated in interagency collaborations including in the UNEG Human Rights and Disability Working Group.
+
+## Monitoring And Evaluation Officer - UN Women  *01/02/2022 – 02/01/2024* | *Jakarta, Indonesia*
+
+- Guided gender-responsive and human rights evaluation and contributed to the ASEAN WPS project Baseline evaluation
+(2021-2022), Evaluability assessment (2022), project Mid-Term Review (2023) and Indonesia Country Portfolio Evaluation (2023).
+- Maintained the risk register and supported the drafting of annual donor and UN Women corporate reports.
+- Solved the problem of irreconcilable data from different tools by developing consolidated data collection tools in Microsoft Forms to track indicators improving the completeness of data from 75% to 100%.
+- Provided capacity development support by training 17 staff and 15 implementing partners on monitoring and
+evaluation processes and tools, resulting in a 60% increase in staff proficiency in RBM principles.
+- Eliminated the problem of double counting by migrating the project database from MS Excel to a PostgreSQL database.
+- Reduced the time for analysing and reporting by automating reporting using R-Markdown and MS PowerBI.
+
+## Monitoring And Evaluation Specialist - Young Africa International (YAI) *01/11/2020 – 31/01/2022* | *Harare, Zimbabwe*
+
+- Coordinated results for over 5 regional projects in 5 countries (Zimbabwe, Zambia, Mozambique, Botswana and Namibia) - portfolio value 15m USD. Donors: European Union, the Royal Embassy of the Netherlands, NUFFIC, SAS Foundation.
+- Managed two multi-partner TVET project evaluations (2022)- A utilisation-focused and an Outcomes evaluation, met critical deadlines and delivered quality evaluations on schedule and within budget.
+- Led a Real-Time evaluation for the Cyclone Idai reconstruction and resilience building project implemented in Beira, Mozambique (2020-2021), funded by the European Union.
+- Conducted monthly coordination meetings with 5 project team members and carried quarterly monitoring visits which improved Key Performance Indicator efficiency from 75% to 98%.
+- Conducted coordination meetings, and monitoring visits, achieving a Key Performance Indicator (KPI) efficiency from 75% to 98%, utilizing SPSS for data analysis and Power BI for visual reporting.
+- Improved Monitoring, Evaluation and Learning (MEL) capacities, practices and data-driven decision-making through four capacity-building trainings for 47 staff members and 23 partner organizations.
+- Contributed to internal knowledge-sharing platforms, ensuring best practices were adopted in program implementation, leading to a 50% increase in knowledge retention.
+
+## Knowledge and Humanitarian Research Manager - Childline  *01/02/2020 – 31/10/2022* | *Harare, Zimbabwe*
+
+- Led a Rural Rapid Appraisal on Sexual Gender-Based Violence and COVID-19 emergency which placed over 500 children into places of safety in Harare, captured by local media Nehanda Radio and H-Metro.
+- Led the organisational COVID-19 response and collected real-time data on the high rise of child abuse cases during the COVID-19 lockdown, and was interviewed by multiple media including, [Sunday Mail](https://www.sundaymail.co.zw/is-your-child-safe-shocking-rise-in-child-abuse-cases), [Nehanda Radio](https://nehandaradio.com/2020/04/17/62-children-removed-from-the-streets/), [Sunday Mail](https://www.sundaymail.co.zw/school-misdemeanours-tip-of-the-iceberg).
+- Managed an Outcomes Project Evaluation for a re-integration project at the Tongogara Refugee Camp (2016-2020), managed stakeholder communication and expectations with the final evaluation report receiving a highly satisfactory rating.
+- Conducted data analysis using SPSS for quantitative and content and thematic analysis for qualitative data which provided evidence-based insights for project decision-making.
+- Enhanced indicator tracking efficiency from 74% to 96% in Q3 of 2020 through conducting scheduled monitoring visits and spot checks ensuring implementation of recommendations.
+- Developed customized communication products for knowledge dissemination to partners and stakeholders, increasing stakeholder engagement by 20%.
+
+## Monitoring and Evaluation Officer - Legal Resources Foundation *30/06/2017 – 30/01/2020* | *Harare, Zimbabwe*
+
+- Designed a Results-Based M&E framework, achieving a 95% data verification rate, utilizing MS Excel for tracking project outcomes across 10 provinces (3 consortiums with 5 partners).
+- Conducted baseline, process and end-line evaluations focusing on governance, human rights, and access to justice programs, producing useful and credible evaluative data.
+- Engaged in peer reviews and quality assurance improving consortium annual reports accuracy by 40%.
+- Developed data collection tools including surveys, focused group discussion guides, interview guides and checklists to support routine monitoring of projects with over 95% KPI efficiency.
+- Conducted regular monitoring of projects, ensuring effective resource utilization and risk mitigation, reducing
+implementation costs by more than 15%.
+- Improved efficiency by developing and integrating a Data Quality Assurance Framework, developing an automated MS-Excel based database system to store and manage data across various projects.
+
+## Monitoring and Evaluation Advisor - Zimbabwe National Network of People Living with HIV (ZNNP+) *21/07/2016 – 29/06/2017* | *Harare, Zimbabwe*
+
+- Collaborated with district officers to conduct 50+ monitoring visits for the Trócaire-led Comic Relief-funded project, ensuring that activities were properly implemented and increasing community participation by 30%.
+- Coordinated with six partners in the mid-term and end-line evaluations, and oversaw the planning, preparation, conducting, reporting and use and follow-up of the evaluation findings.
+- Developed and maintained the organisation’s monitoring and evaluation system based on DHIS 2.
+- Represented the organisation in key networking events and various consortiums including National Sector Coordination Meetings, and review meetings with government, civil society, and other partners.
+- Prepared highly quality reports for donors and stakeholders resulting in a 100% timely reporting efficiency.
+
+## Monitoring and Evaluation Officer - St Theresa Ruvheneko *01/06/2014 – 30/06/2016* | *Gweru, Zimbabwe*
+
+- Co-wrote a successful funding proposal for an Action Research Ladder to Safety project, resulting in a 2-year project funded by the Swiss Agency for Development Corporation and Voluntary Services Overseas.
+- Collaborated in a Utilisation-Focused Evaluation of the Ladder to Safety Project with stakeholders through participatory methods such as group work and interviews.
+- Prepared the final project report of the Ladder to Safety Project receiving high praise from the Project Steering Committee.
+
+# EDUCATION AND TRAINING
+
+\begin{itemize}[itemsep=0.25em, topsep=0.25em]
+  \item Master of Social Work, University of Zimbabwe, Harare, Zimbabwe (31/05/2017 – 30/12/2018)  
+  \item Special Honors Degree in Monitoring and Evaluation, Lupane State University, Lupane, Zimbabwe (31/12/2019 – 29/12/2021) 
+  \item Honors Degree Social Work, University of Zimbabwe, Harare, Zimbabwe (31/07/2010 – 29/06/2014)
+\end{itemize}
+
+
+# PROFESSIONAL CERTIFICATIONS
+
+\begin{itemize}[itemsep=0.25em, topsep=0.25em]
+  \item Program Management Professional (PgMP) - Project Management Institute, USA, Renewing May 2026  
+  \item Project Management Professional (PMP), Project Management Institute, Renewing 5 June 2027  
+  \item PRINCE2 Foundations, AXELOS Global Best Practice, No Expiry Date  
+  \item PMI Agile Certified Practitioner (PMI-ACP), Project Management Institute, Renewing 10 November 2027  
+  \item PMI Risk Management Professional (PMI-RMP), Project Management Institute, Renewing 19 December 2027
+\end{itemize}
+
+# PUBLICATIONS
+
+- Mukandi, H. S., Taruvinga, R., and Muzingili, T. (2020). Assessing the viability of vocational education as a livelihood strategy for persons with disabilities in Zimbabwe.  [Readhere](https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/s5ab2f/alma9939992501102711)
+
+# NETWORKS AND MEMBERSHIPS
+
+\begin{itemize}[itemsep=0.25em, topsep=0.25em]
+  \item Project Management Institute (Since 01/06/2021, Pennsylvania, USA)  
+  \item United Nations Evaluation Group (UNEG) (Since 01/01/2024, Geneva, Switzerland)
+\end{itemize}
+
+# VOLUNTEERING
+\begin{itemize}[itemsep=0.25em, topsep=0.25em]
+  \item Youth and Social Impact Director, Project Management Institute Zimbabwe \textit{(01/11/2022 – 31/12/2023)}
+  \item Student Mentor, Project Management Institute South Africa \textit{(01/01/2021 – 31/12/2021)}
+\end{itemize}
