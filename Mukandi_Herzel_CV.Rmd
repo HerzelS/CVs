@@ -1,0 +1,102 @@
+
+---
+title: "Curriculum Vitae - Herzel Shingirirai Mukandi"
+output:
+  pdf_document:
+    latex_engine: xelatex
+geometry: margin=1in
+---
+
+# About Me
+
+Monitoring and evaluation specialist with **over 10 years of experience** in designing, managing, and implementing evaluations for national, regional, and international development projects, particularly in **rural development**, **gender**, and **humanitarian contexts**. Adept at utilizing **qualitative and quantitative research methodologies**, including **impact evaluation**, **economic analysis**, and **risk management**.
+
+📧 Email: [mukandiherzel@gmail.com](mailto:mukandiherzel@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/herzelmukandi](https://www.linkedin.com/in/herzelmukandi/)  
+💻 GitHub: [github.com/HerzelS](https://github.com/HerzelS)  
+📞 Phone: +263 777974355  
+
+# Skills
+
+- **Data Collection**: Kobo Collect, ODK, Microsoft Forms, Google Forms, Survey Monkey  
+- **Data Management and Visualisation**: R, Python, SPSS, Nvivo, Microsoft PowerBI, SQL  
+- **Communication and Knowledge Management**: Microsoft Teams, Zoom, SharePoint, Miro, MS Project  
+
+# Work Experience
+
+## Associate Evaluation Officer | UNHCR (Geneva, Switzerland) | Jan 2024 – Present
+
+- Supported 5 large-scale evaluations across 30+ countries.
+- Provided quality assurance, enhanced evaluation credibility.
+- Guided 16 country offices in strategic planning and development.
+- Piloted AI tools like Ollama and Python, integrated **Fusen** in **R**.
+- Developed a **Power BI dashboard** tracking 150+ projects.
+- Led Risk Management processes; improved mitigation strategies by 40%.
+- Participated in UNEG Human Rights and Disability Working Group.
+
+## Monitoring and Evaluation Officer | UN Women (Jakarta, Indonesia) | Feb 2022 – Jan 2024
+
+- Led M&E for a **$10M ASEAN WPS Project** in 4 countries.
+- Contributed to baseline, MTR, and country evaluations.
+- Automated reporting with **RMarkdown** and **Power BI**.
+- Migrated data from Excel to **PostgreSQL**.
+- Trained 17 staff and 15 partners; raised RBM proficiency by 60%.
+
+## Monitoring and Evaluation Specialist | Young Africa International (Harare, Zimbabwe) | Nov 2020 – Jan 2022
+
+- Oversaw results for 5 regional projects (portfolio: $15M).
+- Led evaluations including a **Real-Time Cyclone Idai** review.
+- Increased KPI efficiency from 75% to 98% via SPSS and Power BI.
+- Facilitated 4 capacity-building trainings for 70+ participants.
+
+## Knowledge and Humanitarian Research Manager | Childline (Harare, Zimbabwe) | Feb 2020 – Oct 2022
+
+- Managed M&E across 12 projects in 22 districts.
+- Led emergency GBV appraisal; relocated 500+ children.
+- Featured in [Sunday Mail](https://www.sundaymail.co.zw/is-your-child-safe-shocking-rise-in-child-abuse-cases), [Nehanda Radio](https://nehandaradio.com/2020/04/17/62-children-removed-from-the-streets/), and [H-Metro](https://www.sundaymail.co.zw/school-misdemeanours-tip-of-the-iceberg).
+
+## Monitoring and Evaluation Officer | Legal Resources Foundation (Harare, Zimbabwe) | Jun 2017 – Jan 2020
+
+- Designed a Results-Based M&E Framework with 95% data verification.
+- Led evaluations in governance and justice programs.
+- Built automated **MS Excel** database and DQA systems.
+
+## M&E Advisor | ZNNP+ (Harare, Zimbabwe) | Jul 2016 – Jun 2017
+
+- Oversaw M&E across 10 provinces and 6 national projects.
+- Managed evaluations for Trócaire Comic Relief project.
+- Developed M&E system using **DHIS2**.
+
+## Monitoring and Evaluation Officer | St Theresa Ruvheneko (Gweru, Zimbabwe) | Jun 2014 – Jun 2016
+
+- Co-authored a successful proposal for SDC-funded project.
+- Led final project report development and participatory evaluation.
+
+# Education
+
+- **Special Honours in Monitoring and Evaluation**, Lupane State University (2019–2021)  
+- **Master of Social Work**, University of Zimbabwe (2017–2018)  
+- **BSc Social Work**, University of Zimbabwe (2010–2014)  
+
+# Certifications
+
+- Program Management Professional (PgMP), PMI, valid through May 2026  
+- Project Management Professional (PMP), PMI, valid through Jun 2027  
+- PMI Agile Certified Practitioner (PMI-ACP), valid through Nov 2027  
+- PMI Risk Management Professional (PMI-RMP), valid through Dec 2027  
+- PRINCE2 Foundations, AXELOS
+
+# Publications
+
+- *Assessing the viability of vocational education as a livelihood strategy for persons with disabilities in Zimbabwe*  
+  [Read Publication](https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/s5ab2f/alma9939992501102711)
+
+# Networks and Memberships
+
+- Project Management Institute (PMI) – since Jun 2021  
+- United Nations Evaluation Group (UNEG) – since Jan 2024  
+
+# Volunteering
+
+- Director, Youth and Social Impact – PMI Zimbabwe (2022–2023)  
+- Student Mentor – PMI Zimbabwe (2021)
