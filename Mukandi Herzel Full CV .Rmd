@@ -9,7 +9,7 @@ output:
 fontsize: 10pt
 #mainfont: "TeX Gyre Heros"
 geometry: top=0.3in, bottom=0.3in, left=0.4in, right=0.4in
-linestretch: 1.0
+linestretch: 1.25
 header-includes:
   - \usepackage{enumitem}
   - \setlist[itemize]{itemsep=0.2em, topsep=0.2em, parsep=0em, partopsep=0em, leftmargin=1.5em}
@@ -40,11 +40,20 @@ GitHub: \textcolor{blue}{\href{https://github.com/HerzelS}{github.com/HerzelS}}
 
 **Monitoring and Evaluation** specialist with over **10 years of experience** in designing, managing, and implementing evaluations for national, regional and international development projects, particularly in rural development, gender, and humanitarian contexts. Adept at utilizing qualitative and quantitative research methodologies, including impact evaluation, economic analysis, and risk management.
 
+\vspace{0.5cm}
+
 # SKILLS
 
-**Data Collection**: Kobo Collect, ODK, Microsoft Forms, Google Forms, Survey Monkey  
-**Data Management, Analysis and Visualisation**: R, Python, SPSS, Nvivo, Microsoft PowerBI, SQL  
-**Communication and Knowledge Management**: Microsoft Teams, Zoom, SharePoint, Miro, MS Project
+- **Data Collection**: Kobo Collect, ODK, Microsoft Forms, Google Forms, Survey Monkey
+- **Data Management, Analysis and Visualisation**: R, Python, SPSS, Nvivo, Microsoft PowerBI, SQL
+
+- **Communication and Knowledge Management**: Microsoft Teams, Zoom, SharePoint, Miro, MS Project
+
+- **AI**: Developing RAG Systems Algorithms, Script Engineering
+
+- **Machine Learning**: Neural Networks, KNN, Naive Bayes, Regression Models, Sector Vector Machines
+
+\vspace{0.5cm}
 
 # WORK EXPERIENCE
 
@@ -114,6 +123,8 @@ implementation costs by more than 15%.
 - Collaborated in a Utilisation-Focused Evaluation of the Ladder to Safety Project with stakeholders through participatory methods such as group work and interviews.
 - Prepared the final project report of the Ladder to Safety Project receiving high praise from the Project Steering Committee.
 
+\vspace{0.5cm}
+
 # EDUCATION AND TRAINING
 
 \begin{itemize}[itemsep=0.25em, topsep=0.25em]
@@ -122,7 +133,7 @@ implementation costs by more than 15%.
   \item Honors Degree Social Work, University of Zimbabwe, Harare, Zimbabwe (31/07/2010 – 29/06/2014)
 \end{itemize}
 
-
+\vspace{0.5cm}
 # PROFESSIONAL CERTIFICATIONS
 
 \begin{itemize}[itemsep=0.25em, topsep=0.25em]
@@ -133,10 +144,13 @@ implementation costs by more than 15%.
   \item PMI Risk Management Professional (PMI-RMP), Project Management Institute, Renewing 19 December 2027
 \end{itemize}
 
+
+\vspace{0.5cm}
 # PUBLICATIONS
 
-- Mukandi, H. S., Taruvinga, R., and Muzingili, T. (2020). Assessing the viability of vocational education as a livelihood strategy for persons with disabilities in Zimbabwe.  [Readhere](https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/s5ab2f/alma9939992501102711)
+- Mukandi, H. S., Taruvinga, R., and Muzingili, T. (2020). [Assessing the viability of vocational education as a livelihood strategy for persons with disabilities in Zimbabwe.](https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/s5ab2f/alma9939992501102711)
 
+\vspace{0.5cm}
 # NETWORKS AND MEMBERSHIPS
 
 \begin{itemize}[itemsep=0.25em, topsep=0.25em]
@@ -144,6 +158,7 @@ implementation costs by more than 15%.
   \item United Nations Evaluation Group (UNEG) (Since 01/01/2024, Geneva, Switzerland)
 \end{itemize}
 
+\vspace{0.5cm}
 # VOLUNTEERING
 \begin{itemize}[itemsep=0.25em, topsep=0.25em]
   \item Youth and Social Impact Director, Project Management Institute Zimbabwe \textit{(01/11/2022 – 31/12/2023)}
