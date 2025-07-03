@@ -1,101 +1,9 @@
-% Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
-\PassOptionsToPackage{hyphens}{url}
-%
-\documentclass[
-  10pt,
-]{article}
-\usepackage{tabularx}
-\usepackage{amsmath,amssymb}
-\usepackage{setspace}
-\usepackage{iftex}
-\ifPDFTeX
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
-\fi
-% Use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\usepackage{xcolor}
-\usepackage[top=0.3in, bottom=0.3in, left=0.4in, right=0.4in]{geometry}
-\usepackage{graphicx}
-\makeatletter
-\newsavebox\pandoc@box
-\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
-  \sbox\pandoc@box{#1}%
-  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
-  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
-  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
-  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
-  \else\usebox{\pandoc@box}%
-  \fi%
-}
-% Set default figure placement to htbp
-\def\fps@figure{htbp}
-\makeatother
-\setlength{\emergencystretch}{3em} % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-\usepackage{enumitem}
-\setlist[itemize]{itemsep=0.2em, topsep=0.2em, parsep=0em, partopsep=0em, leftmargin=1.5em}
-\usepackage{titlesec}
-\titlespacing\section{0pt}{0.5em}{0.1em}
-\titleformat{\section}{\normalfont\normalsize\bfseries}{\thesection}{0em}{}
-\titlespacing\subsection{0pt}{0.3em}{0.1em}
-\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0em}{}
-\usepackage{xcolor}
-\usepackage{hyperref}
-\hypersetup{colorlinks=true, urlcolor=blue}
-\usepackage{bookmark}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
-\hypersetup{
-  pdftitle={Curriculum Vitae - Herzel Shingirirai Mukandi},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-
-\title{Curriculum Vitae - Herzel Shingirirai Mukandi}
-\author{}
-\date{\vspace{-2.5em}}
-
-\begin{document}
-\maketitle
-
-\setstretch{1.25}
-\vspace{-2em}
-
-\begin{center}
-{\small
-Email: \textcolor{blue}{\href{mailto:mukandiherzel@gmail.com}{mukandiherzel@gmail.com}} \quad
-LinkedIn: \textcolor{blue}{\href{https://www.linkedin.com/in/herzelmukandi}{linkedin.com/in/herzelmukandi}} \quad
-GitHub: \textcolor{blue}{\href{https://github.com/HerzelS}{github.com/HerzelS}}
-}
-\end{center}
-
-\vspace{0.5em}
+---
+title: "Mukandi H Latest CV"
+author: "Herzel Mukandi"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
 
 \section{ABOUT ME}\label{about-me}
 
@@ -132,12 +40,12 @@ impact evaluation, economic analysis, and risk management.
 \subsection{\texorpdfstring{Associate Evaluation Officer - UNHCR
 \emph{03/01/2024 -- Current} \textbar{} \emph{Geneva, Switzerland}}{Associate Evaluation Officer - UNHCR 03/01/2024 -- Current \textbar{} Geneva, Switzerland}}\label{associate-evaluation-officer---unhcr-03012024-current-geneva-switzerland}
 
-Under the overall supervision of the Regional Senior Evaluation Officer(s), I manage the delivery of Humanitarian Emergency, Global, Regional and Country Thematic Strategic, Project and Joint evaluations commisioned as part of the EvO rolling workplan. Additionally, am providing strategic support to evaluation Capacity Building across the Southern and the East Horn of Africa and the Great Lakes (EHAGL). I am also the gender and Enterprise risk management focal person for the EvO.
+Under the overall supervision of the Regional Senior Evaluation Officer(s), assist in managing and delivering Humanitarian Emergency, Global, Regional and Country Thematic Strategic, Project and Joint evaluations commisioned as part of the EvO rolling workplan. Additionally, am providing strategic support to evaluation Capacity Building across Souther Arica and the East Horn of Africa and the Great Lakes (EHAGL). I am also the gender and Enterprise risk management focal persons for the EvO.
 
 \begin{itemize}
 \tightlist
 \item
-Supporting management of global, regional and country-level evaluations across 30+ countries (Africa, Europe, Asia, the Middle and the Americas), ensuring alignment with the UNHCR Evaluation policy, methodologies, and normative frameworks.
+Supporting global, regional and country-level evaluations across 30+ countries (Africa, Europe, Asia, the Middle and the Americas), ensuring alignment with the UNHCR Evaluation policy, methodologies, and normative frameworks.
 \item
 Reviewing and Quality assuring evaluation deliverables enhancing evaluation products quality and credibility.
 \item
@@ -145,13 +53,13 @@ Guiding the Regional Bureau for EHAGL and Southern Africa RB and 16 country offi
 \item
 Exploring evaluation synthesis efficiency through piloting AI-based tools for automated RAG extracted reports using Ollama and Python as well as implementing innovative scalable and reproducible Fusen packages in R.
 \item
-Collecting and analysing data, preparing desk review notes, analysis papers, and Evaluation Office annual report sections, and disseminating key evaluation findings, best practices, and lessons learned.
+Collected and analysed data, prepared desk review notes, analysis papers, and Evaluation Office annual report sections, and disseminated key evaluation findings, best practices, and lessons learned.
 \item
-Applying risk management principles as the Risk Management focal Point for the Evaluation office, identifying, analysing, and recommending mitigation measures, improving risk mitigation strategies by 40\%.
+Applied risk management principles as the Risk Management focal Point for the Evaluation office, identified, analyzed, and recommended mitigation measures, improving risk mitigation strategies by 40\%.
 \item
-Contributing to internal knowledge-sharing initiatives by developing a dynamic Power BI dashboard that monitors performance for 150+ evaluative projects in MS Project.
+Contributed to internal knowledge-sharing initiatives by developing a dynamic Power BI dashboard that monitors performance for 150+ evaluative projects in MS Project.
 \item
-Participating in interagency collaborations including in the UNEG Human Rights and Disability Working Group.
+Participated in interagency collaborations including in the UNEG Human Rights and Disability Working Group.
 \end{itemize}
 
 \subsection{\texorpdfstring{Monitoring And Evaluation Officer - UN Women
@@ -326,17 +234,20 @@ Prepared the final project report of the Ladder to Safety Project receiving high
   \item Student Mentor, Project Management Institute South Africa \textit{(01/01/2021 – 31/12/2021)}
 \end{itemize}
 
+\section{SELECTED PROJECTS}
+
+
+
+
 \section{SELECTED EVALUATIONS}
-\begin{tabularx}{\textwidth}{|l|X|X|X|}
+\begin{tabular}{|l|l|l|l|}
 \hline
-Year & Evaluation & Role & Type and Coverage \\
+Name & Role & Department & Location \\
 \hline
-2024-25 & An Evaluation of UNHCR'S Approach to GBV prevention, risk mitigation and response & Evaluation Management and Qualtity Assuarance, Analysis of GBV Planning, Expenditure and Results, QA of deliverables & Global thematic Strategic Evaluation with country case studies in DRC, Ecuador, Italy, Republic of Moldova, Syria Arab Republic, Peru, Kenya, Malaysia\\
-2024-25 & Evaluation of UNHCR's multi-country response to the Sudan Situation & Evaluation Management and Qualtity Assuarance, QA of deliverables & Humanitarian Emergency Evaluation covering three regional bureaus of MENA, EHAGHL and WCA with country case studies in Egypt, Chad, Sudan and South Sudan \\
-2025 & SAMM Migration Evaluation & Evaluation Management, QA of of deliverables & Intergency Project Evaluation (UNHCR, ILO, IOM and UNODC) \\
-2025 & RBSA Livelihoods Evaluation & Evaluation coordination and management, data preperation and analysis & Regional Strategic Evaluation covering the RBSA with country case studies in Eswathini, Namibia, ROC, Zambia, SA \\
-2025 & Graduation Eval & Eval Management & Rwanda \\2025 & Climate SMART Baseline Eval & Eval Management & Rwanda \\
+Alice & Analyst & Finance & London \\
+Bob & Manager & Operations & New York \\
+Charlie & Developer & IT & Berlin \\
 \hline
-\end{tabularx}
+\end{tabular}
 
 \end{document}
