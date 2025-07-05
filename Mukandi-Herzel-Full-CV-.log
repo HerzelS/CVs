@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.1)  4 JUL 2025 09:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.1)  5 JUL 2025 20:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -622,7 +622,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/202
 4/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [2] [3]
 Underfull \hbox (badness 1005) in paragraph at lines 330--330
-[]|\T1/lmr/m/n/10 (+20) Evaluation of UN-HCR's multi-country re-
+[]|[][]\T1/lmr/m/n/10 (+20) Evaluation of UN-HCR's multi-country re-
  []
 
 
@@ -642,7 +642,7 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  14203 strings out of 474116
  223773 string characters out of 5743683
- 1947187 words of memory out of 5000000
+ 1948187 words of memory out of 5000000
  36201 multiletter control sequences out of 15000+600000
  612364 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -653,10 +653,10 @@ ve/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/tex
 mf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fon
 ts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
 lic/lm/lmri10.pfb>
-Output written on Mukandi-Herzel-Full-CV-.pdf (4 pages, 181655 bytes).
+Output written on Mukandi-Herzel-Full-CV-.pdf (4 pages, 181845 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+ 142 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  21 named destinations out of 1000 (max. 500000)
  28801 words of extra memory for PDF output out of 29859 (max. 10000000)
 
